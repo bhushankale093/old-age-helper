@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808281742567",
+    "project_id": "oldagehelper-fb659",
+    "storage_bucket": "oldagehelper-fb659.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808281742567:android:c3e8a44b171c6f5a5a9642",
+        "android_client_info": {
+          "package_name": "com.example.old_age_helper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808281742567-pu75fh0qfclm8lcdgvg2d4n49v54r215.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3C3r20lxug7Fg-6siYSNHQQZOTgWQbJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808281742567-pu75fh0qfclm8lcdgvg2d4n49v54r215.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
