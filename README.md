@@ -1,16 +1,24 @@
-# old_age_helper
+# **OldAge Helper**
 
-A new Flutter project.
+OldAge Helper is an app for helping people above age 65. This is the prototype for the app.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Medicine Reminder
+- Helpline Numbers
+- Important Dates
+- Account Details
+- We can add entries by clicking on plus button which is at bottom right corner
+- 
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+<p>
+<img src="Screenshots/1.png" width="300"/> <img src="Screenshots/2.png" width="300"/>
+<img src="Screenshots/3.png" width="300"> <img src="Screenshots/4.png" width="300">
+<img src="Screenshots/5.png" width="300">  
+</p>
