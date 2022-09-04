@@ -12,7 +12,6 @@ OldAge Helper is an app for helping people above age 65. This is the prototype f
 - Important Dates
 - Account Details
 - We can add entries by clicking on plus button which is at bottom right corner
-- 
 ## Screenshots
 
 ---
